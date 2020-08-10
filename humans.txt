@@ -4,6 +4,7 @@
 # TEAM
 
     Jason Taylor -- jason@git.training -- @awesomejt
+    Jason Taylor2 -- jason@git.training -- @awesomejt
 
 # THANKS
 
