@@ -15,4 +15,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-	Git
+	Git add changes for stash branch example
